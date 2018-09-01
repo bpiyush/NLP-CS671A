@@ -1,6 +1,8 @@
 # NLP-CS671A
 Course files for CS671A - Natural Language Processing
 
+The file and directory management is under construction. Please stay tuned.
+
 Directory structure global:
 ```
 ./
