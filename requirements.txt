@@ -68,7 +68,7 @@ plainbox==0.25
 post==0.0.26
 prometheus-client==0.3.1
 prompt-toolkit==1.0.15
-protobuf==3.5.1
+protobuf==3.15.0
 ptyprocess==0.5.2
 public==0.0.65
 pyasn1==0.1.9
